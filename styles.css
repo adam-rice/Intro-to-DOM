@@ -1,0 +1,17 @@
+body {
+  background-color: BlanchedAlmond;
+}
+
+.box {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+}
+
+.border {
+  border: 10px solid green;
+}
+
+.xyz {
+  height: 500px;
+}
