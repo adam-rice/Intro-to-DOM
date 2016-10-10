@@ -1,5 +1,5 @@
 # Intro-to-DOM
 
-http://frontend.turing.io/lessons/dom-manipulation-with-javascript.html
+[Practice.](https://adam-rice.github.io/Intro-to-DOM/)
 
-[practice](http://frontend.turing.io/lessons/dom-manipulation-with-javascript.html)
+http://frontend.turing.io/lessons/dom-manipulation-with-javascript.html
